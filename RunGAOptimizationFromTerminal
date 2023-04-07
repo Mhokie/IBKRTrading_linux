@@ -1,0 +1,1 @@
+cd "/home/malwash/PycharmProjects/IBKRTrading" && chmod +x "/home/malwash/PycharmProjects/IBKRTrading/venv/bin/activate" && source "/home/malwash/PycharmProjects/IBKRTrading/venv/bin/activate" && "/home/malwash/PycharmProjects/IBKRTrading/venv/bin/python" "/home/malwash/PycharmProjects/IBKRTrading/GAOptimization_Parallel.py"
